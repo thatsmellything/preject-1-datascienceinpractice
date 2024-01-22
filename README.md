@@ -12,7 +12,7 @@ Group: Jensen Judkins, Linhao Wu
 - dataset (should be in root folder)
 
 # Usage
-Full jupyter notebook is available in Project1.ipynb. 
+Full jupyter notebook is available in Project1.ipynb. Runs like a regular jupyter notebook, but all tests were conducted using the python interpreter 3.10.1.
 
 # Motivation, Results, and Findings
 This can all be found in the "Report.docx" file.
