@@ -15,7 +15,7 @@ Group: Jensen Judkins, Linhao Wu
 Full jupyter notebook is available in Project1.ipynb. Runs like a regular jupyter notebook, but all tests were conducted using the python interpreter 3.10.1.
 
 # Motivation, Results, and Findings
-This can all be found in the "Report.docx" file.
+This can all be found in the "Report.pdf" file.
 
 # Presentation File
-This can be found in the "project 1 - baseball.pptx" file.
+This can be found in the "project 1 - baseball.pptx" file or online here - https://docs.google.com/presentation/d/18i_d1g89CJUr-ZedKFVsHYQn0Zti4P2xco_nHHMJ2Ks/edit?usp=sharing
